@@ -1,0 +1,10 @@
+.leaf {
+	background: #ff8b25;
+  padding: 0 5px;
+  }
+  
+.leaf.first {
+background: #02a8e5;
+}
+
+ 
